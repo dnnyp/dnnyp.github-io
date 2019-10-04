@@ -939,12 +939,6 @@
 				font-size: 16pt;
 			}
 
-			header {
-				br {
-					display: none;
-				}
-			}
-
 			.container {
 				padding: 0 2em 0 2em;
 			}
@@ -1090,6 +1084,10 @@
 					}
 				}
 			}
+
+      p.tagline {
+        padding: 0;
+      }
 	}
 
 /* Mobile */

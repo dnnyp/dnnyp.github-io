@@ -1410,9 +1410,6 @@ button,
   body, input, textarea, select {
     font-size: 16pt; }
 
-  header br {
-    display: none; }
-
   .container {
     padding: 0 2em 0 2em; }
 
@@ -1553,7 +1550,10 @@ button,
     #main > section {
       padding: 3em 0; }
     #main section.cover {
-      padding: 4em 0; } }
+      padding: 4em 0; }
+
+  p.tagline {
+    padding: 0; } }
 /* Mobile */
 @media screen and (max-width: 736px) {
   /* Basic */
