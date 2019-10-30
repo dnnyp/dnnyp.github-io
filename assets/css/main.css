@@ -167,6 +167,11 @@ p, ul, ol, dl, table {
 br.clear {
   clear: both; }
 
+iframe {
+  width: 80%;
+  height: 50vh;
+}
+
 /* Container */
 .container {
   margin: 0 auto;
